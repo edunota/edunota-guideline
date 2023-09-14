@@ -1,32 +1,22 @@
 # Table of contents
 
 
-<ul>
-    <li><h3>1. Getting Started</h3> </li>
-    <li>
-        <h3>2. Project structure</h3>
-        <ul> 
-            <li> <h4>2.1. Database</h4>
-                  <ul>
-                    <li><h5>2.1.1 Migrations</h5></li>
-                </ul>
-            </li>
-            <li><h4>Backend</h4>
-                <ul>
-                    <li><h5>Rest api</h5></li>
-                </ul>
-            </li>
-            <li><h4>Frontends</h4>
-                <ul>
-                    <li><h5>Web app & dashboard</h5></a></li>
-                    <li><h5>Mobile app   -   <small>  currently not in roadmap</small></h5></li>
-                    <li><h5>Desktop app  -   <small> currently not in roadmap</small></h5></li>
-                </ul>
-            </li>
-        </ul> 
-    </li>
-<ul>
+1. Getting Started
 
+2. Project structure
+ 2.1. Database 
+
+   2.1.1. Migrations
+3. Backend
+
+    3.1. Rest api
+4. Frontends 
+
+    4.1. Web app & dashboard   
+
+        4.1.1. Mobile app   -  currently not in roadmap 
+        4.1.2. Desktop app  -   currently not in roadmap
+5. Shared
 
 
 <br>
@@ -55,6 +45,17 @@ This project has a monolithic structure consisting of 3 main partition.
 - Backend
 - shared
 
+## 2.1 Database
+All database related projects 
+
+### 2.2.1 migrations
+Database migrations in this repository
+
+
+
+## 2.3 Backend
+
+### 2.3.1 Rest api
 ## 2.1. Frontend
 Frontend projects for edunota
 
@@ -63,13 +64,4 @@ a web app client write in astro
 ### 2.1.2 web dashboard
 a web dashboard app
 
-## 2.2 Database
-All database related projects 
 
-### 2.2.1 migrations
-Database migrations in this repository
-
-
-## 2.3 Backend
-
-### 2.3.1 Rest api
