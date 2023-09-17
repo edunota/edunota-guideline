@@ -92,7 +92,7 @@ optional if you dont want to use -S flag, set git to sign commits by default
 ```bash
 git config --global commit.gpgsign true
 ```
-### telling git your signing key
+### telling github your signing key
 copy your public key
 ```bash
 cat ~/.ssh/id_ed25519.pub
