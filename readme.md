@@ -56,12 +56,11 @@ Database migrations in this repository
 ## 2.3 Backend
 
 ### 2.3.1 Rest api
-## 2.1. Frontend
+## 2.4. Frontend
 Frontend projects for edunota
-
-### 2.1.1 web app
+### 2.4.1 web app
 a web app client write in astro
-### 2.1.2 web dashboard
+### 2.4.2 web dashboard
 a web dashboard app
 
 
